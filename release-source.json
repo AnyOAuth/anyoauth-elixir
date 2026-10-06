@@ -1,0 +1,25 @@
+{
+  "target": "elixir",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "repository": "https://github.com/AnyOAuth/anyoauth-elixir",
+  "release": "https://github.com/AnyOAuth/anyoauth-elixir/releases/tag/v0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "sourceCommit": "c44e7460cbebe26a6baa00bc6c4ee2f48d69e907",
+  "files": {
+    ".github/workflows/verify.yml": "622080cd2a2f1d2c7227ca2cc46feabf41554441dd5069ff1563a5f1d662c03c",
+    ".gitignore": "592dd9e15cfa13d25e5ef9a61c0a52cd58082668ad4eee698d23876f3de74b84",
+    "LICENSE": "67fa35b4d234954ad643a73413541b46a1ac2586b879cb7c48129ebb1a18389d",
+    "README.md": "1cc5b8b58e8aa26c096224fe2899b633793903220c3f0a0701185b9260aa4f48",
+    "contract.json": "894ed366ac7dd975a7b9e017c0504c1969bb89fac46c2a6c931f989f44f768b8",
+    "lib/anyoauth.ex": "37276f09584eed7da5bc9ef1101ed885181fcb5dd3274ff8af4346245cb148fa",
+    "mix.exs": "57b5dd0504d3de0dee64207df85a1bd7068d0c49edf3b977cd5d54b09200a459",
+    "mix.lock": "b9d91a6fd700ae96399449daa8a49a74d8b8162d1ec6bf7ff64826853f208b0c",
+    "provenance.json": "6790e8ad95379952b73a9d2873c20574dc3055571ca6b4591de04127ce768562",
+    "schema.json": "894ed366ac7dd975a7b9e017c0504c1969bb89fac46c2a6c931f989f44f768b8",
+    "tests/check.mjs": "29e6f4ad9037c4fd33b6f4e4d4ac697cf3a7cc4688037d7a7e776c3aa73e0bb3",
+    "tests/conformance.exs": "ae96427154ddcb1616b608fd45146af78ec0675ad2f0f2a9f05681a3d137800b",
+    "tests/selftest.py": "80a2fa10aea535fdcabfac753118e26116fc2e087094f2bc13673f3ca1fd2aaa",
+    "verify.mjs": "8824be37ea84622d92d90dd1f1a0db57b922119ceaa6e4d45d7ae70eba0955b4"
+  }
+}
